@@ -37,7 +37,7 @@ body {
 .app-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 4px 2rem 2rem 2rem;
+  padding: 12px 2rem 2rem 2rem;
   width: 100%;
   flex: 1;
 }
@@ -49,7 +49,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  margin-bottom: 4px;
+  margin-bottom: 12px;
   text-align: center;
   flex-wrap: wrap;
 }
@@ -323,11 +323,11 @@ select.filter-input {
 
 @media (max-width: 600px) {
   .app-container {
-    padding: 4px 1rem 1rem 1rem;
+    padding: 12px 1rem 1rem 1rem;
   }
   .header {
     flex-direction: column;
-    margin-bottom: 16px;
+    margin-bottom: 24px;
   }
   .header h1 {
     font-size: 1.2rem;
