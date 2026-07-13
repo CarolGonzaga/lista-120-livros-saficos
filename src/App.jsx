@@ -42,7 +42,7 @@ function App() {
     <>
       <div className="app-container">
         <header className="header">
-        <img src="/images/logo.png" alt="Lendo Sáficos Logo" className="logo" />
+        <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Lendo Sáficos Logo" className="logo" />
         <h1>120 livros sáficos lançados em 2026</h1>
       </header>
 
@@ -84,7 +84,12 @@ function App() {
                 <div className="book-tag">{book.lancamento}</div>
                 <div className="book-cover-container">
                   {book.capa ? (
-                    <img src={book.capa} alt={`Capa do livro ${book.titulo}`} className="book-cover" loading="lazy" />
+                    <img 
+                      src={book.capa.startsWith('http') ? book.capa : `${import.meta.env.BASE_URL}${book.capa.startsWith('/') ? book.capa.slice(1) : book.capa}`} 
+                      alt={`Capa do livro ${book.titulo}`} 
+                      className="book-cover" 
+                      loading="lazy" 
+                    />
                   ) : (
                     <div style={{ color: '#fff', padding: '1rem', textAlign: 'center' }}>Sem Capa</div>
                   )}
