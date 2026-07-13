@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/lista120livrossaficos/:path*",
+      "destination": "/:path*"
+    }
+  ]
+}
