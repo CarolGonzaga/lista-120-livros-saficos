@@ -39,8 +39,9 @@ function App() {
   };
 
   return (
-    <div className="app-container">
-      <header className="header">
+    <>
+      <div className="app-container">
+        <header className="header">
         <img src="/images/logo.png" alt="Lendo Sáficos Logo" className="logo" />
         <h1>120 livros sáficos lançados em 2026</h1>
       </header>
@@ -130,10 +131,13 @@ function App() {
         </div>
       </main>
 
+      </div>
+
       <footer className="footer">
+        <p style={{ marginBottom: '0.5rem' }}>&copy; 2026 Lendo Sáficos. Todos os direitos reservados.</p>
         <p>Desenvolvido por <a href="https://carolgonzaga.site/" target="_blank" rel="noopener noreferrer">CarolGonzaga</a></p>
       </footer>
-    </div>
+    </>
   )
 }
 
