@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "90",
+    "ordem": 1,
+    "titulo": "Bala no Alvo, Dente de Leão",
+    "autora": "Giu Domigues",
+    "lancamento": "09/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0fOmriI4",
+    "capa": "/images/90.jpeg"
+  },
+  {
+    "id": "21",
+    "ordem": 2,
+    "titulo": "A Guarda-Costas – Parte 1",
+    "autora": "G.B. Baldassari",
+    "lancamento": "25/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B00pIQK27",
+    "capa": "/images/21.jpeg"
+  },
+  {
+    "id": "97",
+    "ordem": 3,
+    "titulo": "O Coração Envenenado",
+    "autora": "Kalynn Bayron",
+    "lancamento": "02/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0cprfR2p",
+    "capa": "/images/97.jpeg"
+  },
+  {
+    "id": "39",
+    "ordem": 4,
+    "titulo": "Dias de Princesa",
+    "autora": "Englantine",
+    "lancamento": "10/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0eFVNYS7",
+    "capa": "/images/39.jpeg"
+  },
+  {
+    "id": "129",
+    "ordem": 5,
+    "titulo": "Ponto Sem Nó",
+    "autora": "Ingrid Paranhos",
+    "lancamento": "04/07/2026",
+    "mes": "Julho",
+    "link": "https://link.amazon/B0dp9fLoU",
+    "capa": "/images/129.jpeg"
+  },
+  {
+    "id": "77",
+    "ordem": 6,
+    "titulo": "Ninguém Especial",
+    "autora": "Sophie Gonzales",
+    "lancamento": "10/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B00sjGN9f",
+    "capa": "/images/77.jpg"
+  },
+  {
+    "id": "80",
+    "ordem": 7,
+    "titulo": "Vai Sonhando, Ramona Riley",
+    "autora": "Ashley Herring Blake",
+    "lancamento": "03/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B02QDmvjN",
+    "capa": "/images/80.jpg"
+  },
+  {
+    "id": "83",
+    "ordem": 8,
+    "titulo": "Um Lugar Para Nós",
+    "autora": "Hayley Kiyoko",
+    "lancamento": "02/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0bP12f0V",
+    "capa": "/images/83.jpg"
+  },
+  {
+    "id": "127",
+    "ordem": 9,
+    "titulo": "Aliança em Campo",
+    "autora": "Nick Martins",
+    "lancamento": "19/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0dk05RlI",
+    "capa": "/images/127.jpeg"
+  },
+  {
+    "id": "6",
+    "ordem": 10,
+    "titulo": "A Beira de Nós",
+    "autora": "Laila Zago",
+    "lancamento": "28/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0cpBzCl8",
+    "capa": "/images/6.jpg"
+  },
+  {
+    "id": "76",
+    "ordem": 11,
+    "titulo": "As Três Tarefas de Cristina Ribeiro de Castro",
+    "autora": "Laura Pohl",
+    "lancamento": "15/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0araZcBr",
+    "capa": "/images/76.jpg"
+  },
+  {
+    "id": "12",
+    "ordem": 12,
+    "titulo": "Um Segundo Para Sempre",
+    "autora": "Camilla Giordanno",
+    "lancamento": "03/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B06Pmxh3P",
+    "capa": "/images/12.jpeg"
+  },
+  {
+    "id": "102",
+    "ordem": 13,
+    "titulo": "Todas as Verdades Que eu Não Te Disse",
+    "autora": "D. Barreto",
+    "lancamento": "27/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0e8t8hAS",
+    "capa": "/images/102.jpeg"
+  },
+  {
+    "id": "95",
+    "ordem": 14,
+    "titulo": "Overdrive",
+    "autora": "Agatha Menezes",
+    "lancamento": "07/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B08gwTqJY",
+    "capa": "/images/95.jpeg"
+  },
+  {
+    "id": "16",
+    "ordem": 15,
+    "titulo": "Fogo Cruzado",
+    "autora": "Carol Barra",
+    "lancamento": "05/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B05e0S1w6",
+    "capa": "/images/16.jpeg"
+  },
+  {
+    "id": "8",
+    "ordem": 16,
+    "titulo": "O Livro de Sangue & Rosas",
+    "autora": "Annie Summerlee",
+    "lancamento": "30/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0dK7CC9W",
+    "capa": "/images/8.jpg"
+  },
+  {
+    "id": "53",
+    "ordem": 17,
+    "titulo": "O Encontro dos Sóis",
+    "autora": "Carol Barra",
+    "lancamento": "09/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B05OGzIbo",
+    "capa": "/images/53.jpeg"
+  },
+  {
+    "id": "31",
+    "ordem": 18,
+    "titulo": "Desarmonia",
+    "autora": "Raquel Alves",
+    "lancamento": "06/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0ezrvSdU",
+    "capa": "/images/31.jpeg"
+  },
+  {
+    "id": "75",
+    "ordem": 19,
+    "titulo": "Volte Para a Superfície",
+    "autora": "Victoria Mendes",
+    "lancamento": "01/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0frmoA5h",
+    "capa": "/images/75.jpg"
+  },
+  {
+    "id": "78",
+    "ordem": 20,
+    "titulo": "Sem Palavra de Segurança",
+    "autora": "Leila Venturini",
+    "lancamento": "15/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B02x0cK1A",
+    "capa": "/images/78.jpg"
+  },
+  {
+    "id": "55",
+    "ordem": 21,
+    "titulo": "Proibido se Apaixonar: De Novo",
+    "autora": "V. S. Vilela",
+    "lancamento": "01/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0iAAve8r",
+    "capa": "/images/55.jpeg"
+  },
+  {
+    "id": "126",
+    "ordem": 22,
+    "titulo": "Patinando Até Você",
+    "autora": "Agatha Menezes",
+    "lancamento": "14/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0bwUnsaF",
+    "capa": "/images/126.jpeg"
+  },
+  {
+    "id": "47",
+    "ordem": 23,
+    "titulo": "Além das Câmeras",
+    "autora": "Gina Milbradt",
+    "lancamento": "04/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0j5XSI2W",
+    "capa": "/images/47.jpeg"
+  },
+  {
+    "id": "63",
+    "ordem": 24,
+    "titulo": "Monte Aurora",
+    "autora": "Ana Winter",
+    "lancamento": "28/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0i2qoNMV",
+    "capa": "/images/63.jpeg"
+  },
+  {
+    "id": "20",
+    "ordem": 25,
+    "titulo": "Todas as Nossas Estações",
+    "autora": "Andremis",
+    "lancamento": "23/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B06H4KHh8",
+    "capa": "/images/20.jpeg"
+  },
+  {
+    "id": "19",
+    "ordem": 26,
+    "titulo": "Um Acordo de Dois Corações",
+    "autora": "Zey Shelsea, Yas Oliveira",
+    "lancamento": "19/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B012lqkNX",
+    "capa": "/images/19.jpeg"
+  },
+  {
+    "id": "11",
+    "ordem": 27,
+    "titulo": "Posso Ser Ela?",
+    "autora": "Ve Dias",
+    "lancamento": "05/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B096v5HVc",
+    "capa": "/images/11.jpeg"
+  },
+  {
+    "id": "87",
+    "ordem": 28,
+    "titulo": "Amor Expresso",
+    "autora": "Jéssica Batista",
+    "lancamento": "25/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B02VKSiPn",
+    "capa": "/images/87.jpeg"
+  },
+  {
+    "id": "100",
+    "ordem": 29,
+    "titulo": "Presas",
+    "autora": "Rebecca Nobre",
+    "lancamento": "27/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0bLQk2zF",
+    "capa": "/images/100.jpeg"
+  },
+  {
+    "id": "52",
+    "ordem": 30,
+    "titulo": "Fora de Campo",
+    "autora": "D. Barreto",
+    "lancamento": "07/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0iUBGNSC",
+    "capa": "/images/52.jpeg"
+  },
+  {
+    "id": "123",
+    "ordem": 31,
+    "titulo": "Até Que os Mortos nos Separem",
+    "autora": "Marina Porteclis e Talita Heusi",
+    "lancamento": "28/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0aN7VL4P",
+    "capa": "/images/123.jpeg"
+  },
+  {
+    "id": "58",
+    "ordem": 32,
+    "titulo": "O Diabo Veste Cor-de-Rosa",
+    "autora": "Alexandria Bellefleur",
+    "lancamento": "27/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0jeVRdpW",
+    "capa": "/images/58.jpeg"
+  },
+  {
+    "id": "18",
+    "ordem": 33,
+    "titulo": "Cara Wendy",
+    "autora": "Ann Zhao",
+    "lancamento": "30/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B01PW0oBa",
+    "capa": "/images/18.jpeg"
+  },
+  {
+    "id": "125",
+    "ordem": 34,
+    "titulo": "Falha Crítica no Amor",
+    "autora": "Debora Carvalho",
+    "lancamento": "26/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B08l6uBuZ",
+    "capa": "/images/125.jpeg"
+  },
+  {
+    "id": "61",
+    "ordem": 35,
+    "titulo": "Esposa de Mentira",
+    "autora": "Zey Shelsea",
+    "lancamento": "24/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B088Whqk7",
+    "capa": "/images/61.jpeg"
+  },
+  {
+    "id": "15",
+    "ordem": 36,
+    "titulo": "Você Não é Minha",
+    "autora": "Mar Freitas",
+    "lancamento": "05/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B03NqRCXF",
+    "capa": "/images/15.jpeg"
+  },
+  {
+    "id": "35",
+    "ordem": 37,
+    "titulo": "Os 4 Espelhos",
+    "autora": "Marina Porteclis",
+    "lancamento": "14/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B015qlz4A",
+    "capa": "/images/35.jpeg"
+  },
+  {
+    "id": "14",
+    "ordem": 38,
+    "titulo": "Data Vênia",
+    "autora": "Laura Rodrigues",
+    "lancamento": "10/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B09MdlSeo",
+    "capa": "/images/14.jpeg"
+  },
+  {
+    "id": "13",
+    "ordem": 39,
+    "titulo": "A Redenção da Herdeira Arrogante",
+    "autora": "Lorena Rodrigues",
+    "lancamento": "09/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0ens2U7x",
+    "capa": "/images/13.jpeg"
+  },
+  {
+    "id": "36",
+    "ordem": 40,
+    "titulo": "Um Combinado Entre Nós",
+    "autora": "Olívia Pilar",
+    "lancamento": "",
+    "mes": "",
+    "link": "",
+    "capa": "/images/36.jpeg"
+  },
+  {
+    "id": "121",
+    "ordem": 41,
+    "titulo": "A Escolhida da Deusa",
+    "autora": "Mariana Rosa",
+    "lancamento": "05/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0grFskyQ",
+    "capa": "/images/121.jpeg"
+  },
+  {
+    "id": "120",
+    "ordem": 42,
+    "titulo": "Matriz em Risco",
+    "autora": "Evyn Mota",
+    "lancamento": "30/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0e0DeDHO",
+    "capa": "/images/120.jpeg"
+  },
+  {
+    "id": "38",
+    "ordem": 43,
+    "titulo": "Dona do Meu Pecado: Ruína – Parte 1",
+    "autora": "Fernanda Moser",
+    "lancamento": "11/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0c9eNFTp",
+    "capa": "/images/38.jpeg"
+  },
+  {
+    "id": "104",
+    "ordem": 44,
+    "titulo": "Sistema do Amor",
+    "autora": "Fabi Caldeira",
+    "lancamento": "09/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0iMjQoIT",
+    "capa": "/images/104.jpeg"
+  },
+  {
+    "id": "65",
+    "ordem": 45,
+    "titulo": "Quebra-Cabeça",
+    "autora": "Thaynna Desidério",
+    "lancamento": "26/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0h5RqFvT",
+    "capa": "/images/65.jpeg"
+  },
+  {
+    "id": "128",
+    "ordem": 46,
+    "titulo": "Sentença",
+    "autora": "Meline Aranha",
+    "lancamento": "18/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B03N6sfGR",
+    "capa": "/images/128.jpeg"
+  },
+  {
+    "id": "62",
+    "ordem": 47,
+    "titulo": "Cartas para a Pior Garota do Mundo",
+    "autora": "Evyn Mota",
+    "lancamento": "12/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B04msYgOn",
+    "capa": "/images/62.jpeg"
+  },
+  {
+    "id": "59",
+    "ordem": 48,
+    "titulo": "Joanesburgo",
+    "autora": "Victoria Mendes",
+    "lancamento": "23/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0i8sHXF1",
+    "capa": "/images/59.jpeg"
+  },
+  {
+    "id": "89",
+    "ordem": 49,
+    "titulo": "Nosso Falso Amor",
+    "autora": "Fernanda Moser",
+    "lancamento": "30/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0ggnNmXH",
+    "capa": "/images/89.jpeg"
+  },
+  {
+    "id": "71",
+    "ordem": 50,
+    "titulo": "Seis é Demais",
+    "autora": "Lizzy Lesueur",
+    "lancamento": "18/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B005xGCmX",
+    "capa": "/images/71.jpg"
+  },
+  {
+    "id": "81",
+    "ordem": 51,
+    "titulo": "Você é Minha Musa",
+    "autora": "Liliane Reis",
+    "lancamento": "24/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B09e7TQ1s",
+    "capa": "/images/81.jpg"
+  },
+  {
+    "id": "82",
+    "ordem": 52,
+    "titulo": "Amor Imprevisível",
+    "autora": "Jess Lim",
+    "lancamento": "23/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B05K0X52x",
+    "capa": "/images/82.jpg"
+  },
+  {
+    "id": "86",
+    "ordem": 53,
+    "titulo": "Como Reconquistar uma Nerd",
+    "autora": "Madu Oliveira",
+    "lancamento": "16/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0aHyuXcR",
+    "capa": "/images/86.jpeg"
+  },
+  {
+    "id": "9",
+    "ordem": 54,
+    "titulo": "Entre Sombras e Verdades",
+    "autora": "Debora Carvalho",
+    "lancamento": "08/07/2026",
+    "mes": "Julho",
+    "link": "https://link.amazon/B0bJcce5l",
+    "capa": "/images/9.jpg"
+  },
+  {
+    "id": "91",
+    "ordem": 55,
+    "titulo": "3 Meses para Matar ou Amar Você",
+    "autora": "Neizer Lopes",
+    "lancamento": "23/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0iJEnaPY",
+    "capa": "/images/91.jpeg"
+  },
+  {
+    "id": "56",
+    "ordem": 56,
+    "titulo": "Opostos Contingentes",
+    "autora": "Fernanda V.",
+    "lancamento": "02/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B01Tr8apD",
+    "capa": "/images/56.jpeg"
+  },
+  {
+    "id": "49",
+    "ordem": 57,
+    "titulo": "Garota de Programa",
+    "autora": "Rebecca Nobre",
+    "lancamento": "16/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0cqTcwWf",
+    "capa": "/images/49.jpeg"
+  },
+  {
+    "id": "66",
+    "ordem": 58,
+    "titulo": "Às Cegas com Você",
+    "autora": "Ferrazz",
+    "lancamento": "29/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B02lCU0oL",
+    "capa": "/images/66.jpg"
+  },
+  {
+    "id": "7",
+    "ordem": 59,
+    "titulo": "Flores e Sombras",
+    "autora": "Daphne F. L.",
+    "lancamento": "28/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0d56yS92",
+    "capa": "/images/7.jpg"
+  },
+  {
+    "id": "17",
+    "ordem": 60,
+    "titulo": "O Destino que Roubei do Universo",
+    "autora": "Juliana Anferoli",
+    "lancamento": "12/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B09QjtPgN",
+    "capa": "/images/17.jpeg"
+  },
+  {
+    "id": "69",
+    "ordem": 61,
+    "titulo": "Olhe Para Mim",
+    "autora": "Lena M",
+    "lancamento": "15/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B03rbpbak",
+    "capa": "/images/69.jpg"
+  },
+  {
+    "id": "68",
+    "ordem": 62,
+    "titulo": "Tudo que Eu Não Planejei",
+    "autora": "G.G. Mazu",
+    "lancamento": "19/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0dPQk6bS",
+    "capa": "/images/68.jpg"
+  },
+  {
+    "id": "67",
+    "ordem": 63,
+    "titulo": "Isis",
+    "autora": "LENA M.",
+    "lancamento": "06/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B06ZeGuAo",
+    "capa": "/images/67.jpg"
+  },
+  {
+    "id": "70",
+    "ordem": 64,
+    "titulo": "She's My Eternity",
+    "autora": "Valerie Hunter",
+    "lancamento": "04/07/2026",
+    "mes": "Julho",
+    "link": "https://link.amazon/B0dIHMJNW",
+    "capa": "/images/70.jpg"
+  },
+  {
+    "id": "2",
+    "ordem": 65,
+    "titulo": "The Popstar's Cowgirl",
+    "autora": "A. Goswami",
+    "lancamento": "10/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0cZ7vMRO",
+    "capa": "/images/2.jpg"
+  },
+  {
+    "id": "1",
+    "ordem": 66,
+    "titulo": "Eu Me Rendo E Me Entrego Até Depois Do Fim: Livro 3",
+    "autora": "Márcia Camargo",
+    "lancamento": "03/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0acHANrN",
+    "capa": "/images/1.jpg"
+  },
+  {
+    "id": "72",
+    "ordem": 67,
+    "titulo": "Do Avesso da Moda",
+    "autora": "Fabi Caldeira",
+    "lancamento": "29/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0dSsdiOF",
+    "capa": "/images/72.jpg"
+  },
+  {
+    "id": "73",
+    "ordem": 68,
+    "titulo": "Até Ela Dizer Sim",
+    "autora": "Laura Alves",
+    "lancamento": "15/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0j7hDy3G",
+    "capa": "/images/73.jpg"
+  },
+  {
+    "id": "3",
+    "ordem": 69,
+    "titulo": "Sempre Foi Você",
+    "autora": "Lislaine F.",
+    "lancamento": "19/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0j2gPSxS",
+    "capa": "/images/3.jpg"
+  },
+  {
+    "id": "4",
+    "ordem": 70,
+    "titulo": "Quebrando as Nossas Regras",
+    "autora": "Lari Alcantara",
+    "lancamento": "13/07/2026",
+    "mes": "Julho",
+    "link": "https://link.amazon/B0hzAtM41",
+    "capa": "/images/4.jpg"
+  },
+  {
+    "id": "74",
+    "ordem": 71,
+    "titulo": "Eclipse Fatal (Rosas de Sangue Livro 2)",
+    "autora": "Juliana Anferoli",
+    "lancamento": "03/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0hpccokI",
+    "capa": "/images/74.jpg"
+  },
+  {
+    "id": "60",
+    "ordem": 72,
+    "titulo": "Uma Mulher Pra Chamar de Minha",
+    "autora": "Thais Rodrigues",
+    "lancamento": "11/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B03ET9Gpv",
+    "capa": "/images/60.jpeg"
+  },
+  {
+    "id": "85",
+    "ordem": 73,
+    "titulo": "Galentine's with Benefits",
+    "autora": "Darci Maye",
+    "lancamento": "23/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B05kqoohl",
+    "capa": "/images/85.jpg"
+  },
+  {
+    "id": "84",
+    "ordem": 74,
+    "titulo": "Diário de uma Acompanhante",
+    "autora": "Yasmina Soto",
+    "lancamento": "10/06/2026",
+    "mes": "Junho",
+    "link": "https://link.amazon/B0bSI1NOG",
+    "capa": "/images/84.jpg"
+  },
+  {
+    "id": "79",
+    "ordem": 75,
+    "titulo": "Armações do Amor",
+    "autora": "Samara Viana",
+    "lancamento": "01/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B03JVuuq8",
+    "capa": "/images/79.jpg"
+  },
+  {
+    "id": "88",
+    "ordem": 76,
+    "titulo": "Playing for Keeps: A Novel",
+    "autora": "Alexandria Bellefleur",
+    "lancamento": "06/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0eQDjUZl",
+    "capa": "/images/88.jpeg"
+  },
+  {
+    "id": "10",
+    "ordem": 77,
+    "titulo": "Take Two",
+    "autora": "Erica Goodwin",
+    "lancamento": "20/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B02PhEmjL",
+    "capa": "/images/10.jpeg"
+  },
+  {
+    "id": "92",
+    "ordem": 78,
+    "titulo": "Conhecendo a Família da Namorada",
+    "autora": "Sam C. Di Angelo",
+    "lancamento": "20/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0freuwOn",
+    "capa": "/images/92.jpeg"
+  },
+  {
+    "id": "107",
+    "ordem": 79,
+    "titulo": "O Preço da Escuridão",
+    "autora": "Danda Odeleci",
+    "lancamento": "10/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B05g9J3Zg",
+    "capa": "/images/107.jpeg"
+  },
+  {
+    "id": "93",
+    "ordem": 80,
+    "titulo": "Poder e Proteção (Trilogia Legado Accardini Livro 1)",
+    "autora": "R. B. Nobre",
+    "lancamento": "20/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0cj5r6B9",
+    "capa": "/images/93.jpeg"
+  },
+  {
+    "id": "22",
+    "ordem": 81,
+    "titulo": "Take the Shot",
+    "autora": "Jamey Moody",
+    "lancamento": "02/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0eqFWatQ",
+    "capa": "/images/22.jpeg"
+  },
+  {
+    "id": "94",
+    "ordem": 82,
+    "titulo": "A Esposa e a Terapeuta",
+    "autora": "Sulaíne Souza",
+    "lancamento": "06/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B01azNN7O",
+    "capa": "/images/94.jpeg"
+  },
+  {
+    "id": "23",
+    "ordem": 83,
+    "titulo": "Paralelos",
+    "autora": "H. Zalv",
+    "lancamento": "17/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B0gFVI8wW",
+    "capa": "/images/23.jpeg"
+  },
+  {
+    "id": "24",
+    "ordem": 84,
+    "titulo": "Love Me Like You Shouldn't",
+    "autora": "Harper Bliss",
+    "lancamento": "18/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0bc27ivE",
+    "capa": "/images/24.jpeg"
+  },
+  {
+    "id": "26",
+    "ordem": 85,
+    "titulo": "Sócias por Acaso",
+    "autora": "Clara Ann Simons",
+    "lancamento": "25/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B07tYW9y5",
+    "capa": "/images/26.jpeg"
+  },
+  {
+    "id": "98",
+    "ordem": 86,
+    "titulo": "The Girl Who Bit Me",
+    "autora": "Valerie Hunter",
+    "lancamento": "24/01/2026",
+    "mes": "Janeiro",
+    "link": "https://link.amazon/B02PtjUcm",
+    "capa": "/images/98.jpeg"
+  },
+  {
+    "id": "25",
+    "ordem": 87,
+    "titulo": "Anderson in Bloom",
+    "autora": "Jennifer Dugan",
+    "lancamento": "03/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B09e0p31U",
+    "capa": "/images/25.jpeg"
+  },
+  {
+    "id": "27",
+    "ordem": 88,
+    "titulo": "Segundas Intenções",
+    "autora": "Helena Delfic e Lorena Xavier",
+    "lancamento": "04/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B095UYFO9",
+    "capa": "/images/27.jpeg"
+  },
+  {
+    "id": "99",
+    "ordem": 89,
+    "titulo": "A Fragile Spell (Magical Mishaps Book 1)",
+    "autora": "T. M. Kirk",
+    "lancamento": "17/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B02PtjUcm",
+    "capa": "/images/99.jpeg"
+  },
+  {
+    "id": "30",
+    "ordem": 90,
+    "titulo": "The Witch's Pet",
+    "autora": "Tiana Warner",
+    "lancamento": "11/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0gpJvgk6",
+    "capa": "/images/30.jpeg"
+  },
+  {
+    "id": "28",
+    "ordem": 91,
+    "titulo": "The Wife",
+    "autora": "Cynthia Dane",
+    "lancamento": "16/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0bC0hCPH",
+    "capa": "/images/28.jpeg"
+  },
+  {
+    "id": "29",
+    "ordem": 92,
+    "titulo": "Full Court Crush",
+    "autora": "Sasha Brennan",
+    "lancamento": "12/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B09YIbbeT",
+    "capa": "/images/29.jpeg"
+  },
+  {
+    "id": "33",
+    "ordem": 93,
+    "titulo": "In the Dark",
+    "autora": "Melissa Tereze",
+    "lancamento": "02/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0avBPcXS",
+    "capa": "/images/33.jpeg"
+  },
+  {
+    "id": "34",
+    "ordem": 94,
+    "titulo": "Get Over It, April Evans",
+    "autora": "Ashley Herring Blake",
+    "lancamento": "03/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0euy50Se",
+    "capa": "/images/34.jpeg"
+  },
+  {
+    "id": "32",
+    "ordem": 95,
+    "titulo": "Not Your Enemy",
+    "autora": "Madison Mar",
+    "lancamento": "06/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0fPVxT3t",
+    "capa": "/images/32.jpeg"
+  },
+  {
+    "id": "101",
+    "ordem": 96,
+    "titulo": "Checking for Love",
+    "autora": "Reba Bale",
+    "lancamento": "06/02/2026",
+    "mes": "Fevereiro",
+    "link": "https://link.amazon/B0e8t8hAS",
+    "capa": "/images/101.jpeg"
+  },
+  {
+    "id": "40",
+    "ordem": 97,
+    "titulo": "Inside the Paint",
+    "autora": "Sasha Brennan",
+    "lancamento": "14/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0ivxxepj",
+    "capa": "/images/40.jpeg"
+  },
+  {
+    "id": "37",
+    "ordem": 98,
+    "titulo": "Unavoidably You",
+    "autora": "Lindsey Pennington",
+    "lancamento": "10/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B09XsOaBz",
+    "capa": "/images/37.jpeg"
+  },
+  {
+    "id": "103",
+    "ordem": 99,
+    "titulo": "The Perfect Match",
+    "autora": "Adiba Jaigirdar",
+    "lancamento": "19/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B01QmaQqP",
+    "capa": "/images/103.jpeg"
+  },
+  {
+    "id": "42",
+    "ordem": 100,
+    "titulo": "Finding Forever",
+    "autora": "Lise Gold",
+    "lancamento": "27/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0dLWQNx7",
+    "capa": "/images/42.jpeg"
+  },
+  {
+    "id": "41",
+    "ordem": 101,
+    "titulo": "A Estação do Medo",
+    "autora": "Emily Cooper e Angélica Andrade",
+    "lancamento": "31/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0260Xiwq",
+    "capa": "/images/41.jpeg"
+  },
+  {
+    "id": "108",
+    "ordem": 102,
+    "titulo": "Codename Lotus",
+    "autora": "Yiliana Ferran",
+    "lancamento": "22/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B06XHQPe6",
+    "capa": "/images/108.jpeg"
+  },
+  {
+    "id": "105",
+    "ordem": 103,
+    "titulo": "Febre",
+    "autora": "Belinda Blanchett",
+    "lancamento": "30/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B0euZmssU",
+    "capa": "/images/105.jpeg"
+  },
+  {
+    "id": "106",
+    "ordem": 104,
+    "titulo": "O Último Escândalo",
+    "autora": "M. R. Fernandess",
+    "lancamento": "13/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B03lmY1NJ",
+    "capa": "/images/106.jpeg"
+  },
+  {
+    "id": "110",
+    "ordem": 105,
+    "titulo": "Million Dollar Marriage",
+    "autora": "Margo Glynn",
+    "lancamento": "14/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0dPZ5dzU",
+    "capa": "/images/110.jpeg"
+  },
+  {
+    "id": "44",
+    "ordem": 106,
+    "titulo": "As Sombras que Me Vestem",
+    "autora": "Aifos Abade",
+    "lancamento": "30/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B02D1ehcW",
+    "capa": "/images/44.jpeg"
+  },
+  {
+    "id": "109",
+    "ordem": 107,
+    "titulo": "A Arte do Recomeço",
+    "autora": "Valéria de Paulo",
+    "lancamento": "27/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B02RF29mr",
+    "capa": "/images/109.jpeg"
+  },
+  {
+    "id": "43",
+    "ordem": 108,
+    "titulo": "The Dark Sweetness: At the Bottom of the Well",
+    "autora": "Chandra Fisher",
+    "lancamento": "31/03/2026",
+    "mes": "Março",
+    "link": "https://link.amazon/B03LrPddI",
+    "capa": "/images/43.jpeg"
+  },
+  {
+    "id": "124",
+    "ordem": 109,
+    "titulo": "As Estrelas e Nós",
+    "autora": "Maria Gabi",
+    "lancamento": "25/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0b04p4B4",
+    "capa": "/images/124.jpeg"
+  },
+  {
+    "id": "115",
+    "ordem": 110,
+    "titulo": "Nosso Clichê",
+    "autora": "Re Lemos",
+    "lancamento": "22/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0cJC4aa5",
+    "capa": "/images/115.jpeg"
+  },
+  {
+    "id": "114",
+    "ordem": 111,
+    "titulo": "Cláusula da Paixão",
+    "autora": "Madu Oliveira",
+    "lancamento": "20/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B09Si784f",
+    "capa": "/images/114.jpeg"
+  },
+  {
+    "id": "122",
+    "ordem": 112,
+    "titulo": "Um Desejo ao Destino",
+    "autora": "Julli Araújo",
+    "lancamento": "10/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B0ffyls7E",
+    "capa": "/images/122.jpeg"
+  },
+  {
+    "id": "54",
+    "ordem": 113,
+    "titulo": "Perto do Mar Será Feliz",
+    "autora": "Pamela Canciani",
+    "lancamento": "02/05/2026",
+    "mes": "Maio",
+    "link": "https://link.amazon/B07J6uhnn",
+    "capa": "/images/54.jpeg"
+  },
+  {
+    "id": "45",
+    "ordem": 114,
+    "titulo": "From Hell, With Love",
+    "autora": "Bryce Oakley",
+    "lancamento": "03/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B04vJNjms",
+    "capa": "/images/45.jpeg"
+  },
+  {
+    "id": "48",
+    "ordem": 115,
+    "titulo": "What I Want",
+    "autora": "Frances M. Thompson",
+    "lancamento": "21/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B02FqqEY6",
+    "capa": "/images/48.jpeg"
+  },
+  {
+    "id": "51",
+    "ordem": 116,
+    "titulo": "Até Que o Amor Nos Encontre",
+    "autora": "Gabrielly Silva",
+    "lancamento": "07/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0gYpiVBC",
+    "capa": "/images/51.jpeg"
+  },
+  {
+    "id": "46",
+    "ordem": 117,
+    "titulo": "Reality Check",
+    "autora": "Lizzie Huxley-Jones",
+    "lancamento": "09/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B03B4Xl1r",
+    "capa": "/images/46.jpeg"
+  },
+  {
+    "id": "117",
+    "ordem": 118,
+    "titulo": "Aposta Emocional",
+    "autora": "L. de Lírio",
+    "lancamento": "19/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B00bbdkOm",
+    "capa": "/images/117.jpeg"
+  },
+  {
+    "id": "113",
+    "ordem": 119,
+    "titulo": "Make Your Move",
+    "autora": "Melissa Brayden",
+    "lancamento": "24/04/2026",
+    "mes": "Abril",
+    "link": "https://link.amazon/B0haWfh76",
+    "capa": "/images/113.jpeg"
+  }
+]
