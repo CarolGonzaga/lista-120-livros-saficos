@@ -42,7 +42,9 @@ function App() {
     <>
       <div className="app-container">
         <header className="header">
-        <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Lendo Sáficos Logo" className="logo" />
+        <a href="https://lendosaficos.com.br" className="logo-link">
+          <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Lendo Sáficos Logo" className="logo" />
+        </a>
         <h1>120 livros sáficos lançados em 2026</h1>
       </header>
 

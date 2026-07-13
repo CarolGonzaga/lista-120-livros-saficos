@@ -54,6 +54,11 @@ body {
   flex-wrap: wrap;
 }
 
+.logo-link {
+  display: inline-flex;
+  align-items: center;
+}
+
 .header img.logo {
   max-width: 135px;
 }
