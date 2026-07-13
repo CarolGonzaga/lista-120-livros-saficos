@@ -327,7 +327,7 @@ select.filter-input {
   }
   .header {
     flex-direction: column;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
   }
   .header h1 {
     font-size: 1.2rem;
