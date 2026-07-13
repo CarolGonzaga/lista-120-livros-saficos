@@ -60,13 +60,13 @@ body {
 }
 
 .header img.logo {
-  max-width: 135px;
+  max-width: 115px;
 }
 
 .header h1 {
   font-family: var(--font-main);
   font-weight: 900;
-  font-size: 2.5rem;
+  font-size: 2.125rem;
   text-transform: uppercase;
   color: #fff;
   background: var(--color-accent-pink);
@@ -81,6 +81,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+  margin-top: 12px;
   margin-bottom: 3rem;
   justify-content: center;
   background: rgba(226, 26, 122, 0.04);
@@ -301,20 +302,20 @@ select.filter-input {
 
 @media (max-width: 992px) {
   .header h1 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
   .header img.logo {
-    max-width: 108px;
+    max-width: 92px;
   }
 }
 
 @media (max-width: 768px) {
   .header h1 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     padding: 0.4rem 0.8rem;
   }
   .header img.logo {
-    max-width: 90px;
+    max-width: 76px;
   }
   .filters-container {
     flex-direction: column;
@@ -335,12 +336,12 @@ select.filter-input {
     margin-bottom: 12px;
   }
   .header h1 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.2;
     padding: 0.4rem 0.8rem;
   }
   .header img.logo {
-    max-width: 90px;
+    max-width: 76px;
   }
   .books-grid {
     grid-template-columns: repeat(2, 1fr);
