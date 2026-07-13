@@ -47,7 +47,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   gap: 8px;
   margin-bottom: 12px;
   text-align: center;
@@ -55,7 +55,7 @@ body {
 }
 
 .header img.logo {
-  max-width: 150px;
+  max-width: 135px;
 }
 
 .header h1 {
@@ -299,7 +299,7 @@ select.filter-input {
     font-size: 1.8rem;
   }
   .header img.logo {
-    max-width: 120px;
+    max-width: 108px;
   }
 }
 
@@ -309,7 +309,7 @@ select.filter-input {
     padding: 0.4rem 0.8rem;
   }
   .header img.logo {
-    max-width: 100px;
+    max-width: 90px;
   }
   .filters-container {
     flex-direction: column;
@@ -335,7 +335,7 @@ select.filter-input {
     padding: 0.4rem 0.8rem;
   }
   .header img.logo {
-    max-width: 100px;
+    max-width: 90px;
   }
   .books-grid {
     grid-template-columns: repeat(2, 1fr);
