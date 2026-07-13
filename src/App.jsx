@@ -41,14 +41,24 @@ function App() {
   return (
     <>
       <div className="app-container">
-        <header className="header">
+        <header className="site-header">
         <a href="https://lendosaficos.com.br" className="logo-link">
           <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Lendo Sáficos Logo" className="logo" />
         </a>
+        <div className="navbar-content">
+          <span className="navbar-kicker">Especial 2026</span>
+          <span className="navbar-title">Lançamentos sáficos</span>
+        </div>
+        <a className="home-link" href="https://lendosaficos.com.br">Início <span aria-hidden="true">↗</span></a>
         <h1>120 livros sáficos lançados em 2026</h1>
       </header>
 
       <main>
+        <section className="intro" aria-labelledby="page-title">
+          <p className="eyebrow">Para descobrir sua próxima leitura</p>
+          <h1 id="page-title">Livros sáficos lançados em 2026</h1>
+          <p>Esta é uma lista atualizada de livros sáficos lançados em 2026 até o momento atual. Reunimos romances, ficções e outras histórias sáficas de autoras nacionais e internacionais para acompanhar os lançamentos do ano e facilitar a descoberta de novas leituras.</p>
+        </section>
         <div className="filters-container">
           <input
             type="text"
